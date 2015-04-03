@@ -2,7 +2,8 @@
 Technical Test for iOS Developer position
 
 This project is using Xcode 6.2
-I've use: 
+I've used: 
+
   • Alamofire for getting the data (https://github.com/Alamofire/Alamofire)
 
   • SwiftCSVReader for parse de information https://github.com/peterentwistle/SwiftCSVReader
